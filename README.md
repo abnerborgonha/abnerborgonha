@@ -1,8 +1,11 @@
 <h2 align="center">Hi there!, I'm Abnêr 🖖</h2>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/abnerborgonha/" title="LinkedIn"><img width="22" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/linkedin.svg"> </a></code>
-  <code><a href="https://www.instagram.com/abnerborgonha/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/instagram.svg"> </a></code>
+ <i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/abnerborgonha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/abner_borgonha" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+<a href="https://open.spotify.com/user/jn4bobi28lckpoplmt2rjpygj?si=a2f88ec298964f70&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/abnerborgonha" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </h5>
 <br>
 <p align="center">
